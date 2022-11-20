@@ -5,6 +5,7 @@ public class Users {
 
     public static void persons() {
         Scanner scanner = new Scanner(System.in);
+    //вводим бесконечный цикл, чтобы пользователь мог ввести правильное значение
 
         while (true) {
             System.out.println("Выберите количество человек");
